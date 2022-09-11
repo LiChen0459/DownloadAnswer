@@ -7,3 +7,7 @@
 	</a>
 </p>
 Just a simple Answer downloader, still in develop.
+
+Releases will be ready when it's stable.
+
+If you have the ability, you can help me fix bugs after forking the source code
